@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Study-Plan.iml" filepath="$PROJECT_DIR$/.idea/Java-Study-Plan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section10-Array-and-Lists/Section10-Array-and-Lists.iml" filepath="$PROJECT_DIR$/Section10-Array-and-Lists/Section10-Array-and-Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section4-Sequential-structure/Section4-Sequential-structure.iml" filepath="$PROJECT_DIR$/Section4-Sequential-structure/Section4-Sequential-structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section8-Object-Oriented-Programming/Section8-Object-Oriented-Programming.iml" filepath="$PROJECT_DIR$/Section8-Object-Oriented-Programming/Section8-Object-Oriented-Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section9-Constructors-ThisWord-Overloading-Encapsulation/Section9-Constructors-ThisWord-Overloading-Encapsulation.iml" filepath="$PROJECT_DIR$/Section9-Constructors-ThisWord-Overloading-Encapsulation/Section9-Constructors-ThisWord-Overloading-Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/src.iml" filepath="$PROJECT_DIR$/src/src.iml" />
+    </modules>
+  </component>
+</project>
