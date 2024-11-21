@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c38dcf67-9dc1-4dd9-be37-3360fdc6698c" name="Changes" comment=":FEAT: Conceitos de Construtores, a palavra this, sobrecarga e encapsulamento.">
+      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/Section12-Enum-Composition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/CompositionExercise/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/CompositionExercise/entities/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/CompositionExercise/entities/HourContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/CompositionExercise/entities/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/CompositionExercise/entities/enums/WorkerLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/EnumCreation/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/EnumCreation/entities/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/EnumCreation/entities/enums/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/Exercise2/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/Exercise2/entities/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/Exercise2/entities/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/FixingExercise/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/FixingExercise/entities/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/FixingExercise/entities/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/FixingExercise/entities/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/FixingExercise/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/FixingExercise/entities/enums/OrderStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KahoanOliveira&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:KahoanOliveira/Java-Study-Plan.git&quot;,
+    &quot;accountId&quot;: &quot;5dcda898-2a32-4913-8156-1eff1ab5745d&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2mUV3RAHG27VaLT0EoAASFCDmh1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.CompositionExercise.application.Program.executor": "Run",
+    "Application.DateTime.application.Program.executor": "Run",
+    "Application.DateTimeCalculation.application.Program.executor": "Run",
+    "Application.DateTimeConvertion.application.Program.executor": "Run",
+    "Application.DateTimeFormatting.application.Program.executor": "Run",
+    "Application.Enum.application.Program.executor": "Run",
+    "Application.Example1.application.Program.executor": "Debug",
+    "Application.Example2.application.Program.executor": "Run",
+    "Application.Exercise1.executor": "Run",
+    "Application.Exercise2.application.Program.executor": "Run",
+    "Application.Exercise2.executor": "Run",
+    "Application.Exercise3.executor": "Run",
+    "Application.Exercise4.executor": "Run",
+    "Application.Exercise5.executor": "Run",
+    "Application.Exercise6.executor": "Run",
+    "Application.FixingExercise.application.Program.executor": "Run",
+    "Application.FixingExercises.Exercise1.application.Program.executor": "Run",
+    "Application.FixingExercises.Exercise2.application.Program.executor": "Run",
+    "Application.FixingExercises.Exercise3.application.Program.executor": "Run",
+    "Application.FixingExercises.Exercise4.application.Program.executor": "Run",
+    "Application.Headquarters.application.Program.executor": "Run",
+    "Application.List.application.Program.executor": "Run",
+    "Application.ListExercise.application.Program.executor": "Run",
+    "Application.Program.executor": "Run",
+    "Application.application.Program.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kahoa/OneDrive/Área de Trabalho/Projects/To-do-list-API/to-do-list-API",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kahoa\tmpProjetos\Java-Study-Plan\Section8-Object-Oriented-Programming\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="CompositionExercise.entities" />
+      <recent name="Enum.entities" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FixingExercises.Exercise2.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FixingExercises.Exercise2.application.Program" />
+      <module name="Section10-Array-and-Lists" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FixingExercises.Exercise2.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FixingExercises.Exercise3.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FixingExercises.Exercise3.application.Program" />
+      <module name="Section10-Array-and-Lists" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FixingExercises.Exercise3.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FixingExercises.Exercise4.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FixingExercises.Exercise4.application.Program" />
+      <module name="Section10-Array-and-Lists" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FixingExercises.Exercise4.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="List.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List.application.Program" />
+      <module name="Section10-Array-and-Lists" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="List.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BoxingAndUnboxing.application.Program" />
+      <module name="Section10-Array-and-Lists" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BoxingAndUnboxing.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FixingExercises.Exercise2.application.Program" />
+        <item itemvalue="Application.List.application.Program" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.FixingExercises.Exercise4.application.Program" />
+        <item itemvalue="Application.FixingExercises.Exercise3.application.Program" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c38dcf67-9dc1-4dd9-be37-3360fdc6698c" name="Changes" comment="" />
+      <created>1727130941195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727130941195</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1727131433358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727131433358</updated>
+    </task>
+    <task id="LOCAL-00002" summary=":FEAT: Primeira Lista de Exercicios&#10;:Exercício:&#10;Exercicios do curso de Java do Nelio Alves, estes exercícios são testes de nivel básico">
+      <option name="closed" value="true" />
+      <created>1727149073019</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727149073019</updated>
+    </task>
+    <task id="LOCAL-00003" summary=":FEAT: Segunda Lista de Exercicios&#10;:Exercício:&#10;Exercicios do curso de Java do Nelio Alves, estes exercícios são testes básicos sobre Estrutura Condicional">
+      <option name="closed" value="true" />
+      <created>1727384364149</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727384364149</updated>
+    </task>
+    <task id="LOCAL-00004" summary=":FEAT: Conceitos de Programação Orientada a Objetos&#10;:Exercício:&#10;Exercicios de conceitos de programção orientada objeto.">
+      <option name="closed" value="true" />
+      <created>1727749955118</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727749955118</updated>
+    </task>
+    <task id="LOCAL-00005" summary=":FEAT: Conceitos de Construtores, a palavra this, sobrecarga e encapsulamento.">
+      <option name="closed" value="true" />
+      <created>1727925541044</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727925541044</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <MESSAGE value=":FEAT:&#10;&#10;:Exercício:&#10;Exercicios do curso de Java do Nelio Alves, estes exercícios são testes de nivel básico" />
+    <MESSAGE value=":FEAT: Primeira Lista de Exercicios&#10;:Exercício:&#10;Exercicios do curso de Java do Nelio Alves, estes exercícios são testes de nivel básico" />
+    <MESSAGE value=":FEAT: Segunda Lista de Exercicios&#10;:Exercício:&#10;Exercicios do curso de Java do Nelio Alves, estes exercícios são testes básicos sobre Estrutura Condicional" />
+    <MESSAGE value=":FEAT: Conceitos de Programação Orientada a Objetos&#10;:Exercício:&#10;Exercicios de conceitos de programção orientada objeto." />
+    <MESSAGE value=":FEAT: Conceitos de Construtores, a palavra this, sobrecarga e encapsulamento." />
+    <option name="LAST_COMMIT_MESSAGE" value=":FEAT: Conceitos de Construtores, a palavra this, sobrecarga e encapsulamento." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
