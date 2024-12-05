@@ -4,27 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c38dcf67-9dc1-4dd9-be37-3360fdc6698c" name="Changes" comment=":FEAT: Conceitos de Construtores, a palavra this, sobrecarga e encapsulamento.">
-      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/Section12-Enum-Composition.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/CompositionExercise/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/CompositionExercise/entities/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/CompositionExercise/entities/HourContract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/CompositionExercise/entities/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/CompositionExercise/entities/enums/WorkerLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/EnumCreation/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/EnumCreation/entities/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/EnumCreation/entities/enums/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/Exercise2/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/Exercise2/entities/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/Exercise2/entities/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/FixingExercise/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/FixingExercise/entities/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/FixingExercise/entities/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/FixingExercise/entities/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/FixingExercise/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section12-Enum-Composition/src/FixingExercise/entities/enums/OrderStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="c38dcf67-9dc1-4dd9-be37-3360fdc6698c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Section13-Inheritance-Polymorphism/Section13-Inheritance-Polymorphism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13-Inheritance-Polymorphism/src/Example/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13-Inheritance-Polymorphism/src/Example/entities/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13-Inheritance-Polymorphism/src/Example/entities/BusinessAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13-Inheritance-Polymorphism/src/Example/entities/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13-Inheritance-Polymorphism/src/Example2/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13-Inheritance-Polymorphism/src/Example2/entities/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13-Inheritance-Polymorphism/src/Example2/entities/BusinessAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13-Inheritance-Polymorphism/src/Example2/entities/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13-Inheritance-Polymorphism/src/Exercise/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13-Inheritance-Polymorphism/src/Exercise/entities/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13-Inheritance-Polymorphism/src/Exercise/entities/OutsourcedEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13-Inheritance-Polymorphism/src/Exercise2/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13-Inheritance-Polymorphism/src/Exercise2/entities/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13-Inheritance-Polymorphism/src/Exercise2/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13-Inheritance-Polymorphism/src/Exercise2/entities/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13-Inheritance-Polymorphism/src/Exercise2/entities/enums/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13-Inheritance-Polymorphism/src/FixingExercise/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13-Inheritance-Polymorphism/src/FixingExercise/entities/ImportedProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13-Inheritance-Polymorphism/src/FixingExercise/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13-Inheritance-Polymorphism/src/FixingExercise/entities/UsedProduct.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,8 +81,10 @@
     "Application.DateTimeConvertion.application.Program.executor": "Run",
     "Application.DateTimeFormatting.application.Program.executor": "Run",
     "Application.Enum.application.Program.executor": "Run",
+    "Application.Example.application.Program.executor": "Run",
     "Application.Example1.application.Program.executor": "Debug",
     "Application.Example2.application.Program.executor": "Run",
+    "Application.Exercise.application.Program.executor": "Run",
     "Application.Exercise1.executor": "Run",
     "Application.Exercise2.application.Program.executor": "Run",
     "Application.Exercise2.executor": "Run",
@@ -100,10 +105,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/kahoa/OneDrive/Área de Trabalho/Projects/To-do-list-API/to-do-list-API",
+    "last_opened_file_path": "C:/Users/kahoa/tmpProjetos/Java-Study-Plan/Section13-Inheritance-Polymorphism/src/Example2",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -111,6 +117,10 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kahoa\tmpProjetos\Java-Study-Plan\Section13-Inheritance-Polymorphism\src\Example2" />
+      <recent name="C:\Users\kahoa\tmpProjetos\Java-Study-Plan\Section13-Inheritance-Polymorphism\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kahoa\tmpProjetos\Java-Study-Plan\Section8-Object-Oriented-Programming\src" />
     </key>
@@ -118,82 +128,6 @@
       <recent name="CompositionExercise.entities" />
       <recent name="Enum.entities" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="FixingExercises.Exercise2.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FixingExercises.Exercise2.application.Program" />
-      <module name="Section10-Array-and-Lists" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FixingExercises.Exercise2.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FixingExercises.Exercise3.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FixingExercises.Exercise3.application.Program" />
-      <module name="Section10-Array-and-Lists" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FixingExercises.Exercise3.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FixingExercises.Exercise4.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FixingExercises.Exercise4.application.Program" />
-      <module name="Section10-Array-and-Lists" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FixingExercises.Exercise4.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="List.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List.application.Program" />
-      <module name="Section10-Array-and-Lists" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="List.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BoxingAndUnboxing.application.Program" />
-      <module name="Section10-Array-and-Lists" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BoxingAndUnboxing.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.FixingExercises.Exercise2.application.Program" />
-        <item itemvalue="Application.List.application.Program" />
-        <item itemvalue="Application.Program" />
-        <item itemvalue="Application.FixingExercises.Exercise4.application.Program" />
-        <item itemvalue="Application.FixingExercises.Exercise3.application.Program" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
